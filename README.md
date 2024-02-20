@@ -38,3 +38,7 @@ if number<0:
 if number===0:
    print("0입니다")
 ```
+
+<https://www.naver.com/>
+
+[네이버](https://www.naver.com/)
