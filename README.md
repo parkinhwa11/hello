@@ -21,3 +21,20 @@
 _홍길동_ 입니다.
 
 ~~반가워요.~~
+
+# 소스코드 삽입하기
+1. 한 줄 소스 코드
+`function add(x,y){return x+y}`
+
+2. 여러 줄 소스 코드
+```python
+number = input("정수입력>")
+number = int(number)
+
+if number>0:
+   print("양수입니다")
+if number<0:
+   print("음수입니다")
+if number===0:
+   print("0입니다")
+```
